@@ -2,6 +2,11 @@
     text-align: center;
     margin: 0 auto;
 }
+.container{
+    border: 2px solid white;
+    border-radius: 50px;
+    padding-bottom: 25px;
+}
 .card{
     display: flex;
     justify-content: space-between;
